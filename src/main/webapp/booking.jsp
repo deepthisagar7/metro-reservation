@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Metro Booking</title>
+    <title>Metro Ticket Booking</title>
 </head>
 
 <body>
 
-<h2>Metro Ticket Booking</h2>
+<h2>Metro Tickets Booking</h2>
 
 <form>
 
